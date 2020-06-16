@@ -1,1 +1,273 @@
-history -300
+    1  which 
+    2  which git
+    3  git -v
+    4  git --version
+    5  ls
+    6  clear
+    7  php -v
+    8  mysql --version
+    9  brew -v
+   10  brew update
+   11  sudo brew update
+   12  sudo brew update
+   13  sudo chown -R $(whoami) /usr/local/Cellar
+   14  sudo chown -R $(whoami) /usr/local/Cellar
+   15  /usr/local/Cellar/mysql/5.7.10/bin/mysql ; exit;
+   16  brew list
+   17  composer -v
+   18  php -v
+   19  brew install php@7.2
+   20  mysql --version
+   21  brew list
+   22  which mysql
+   23  /usr/local/bin/mysql --version
+   24  brew update
+   25  sudo chown -R $(whoami) /usr/local/Cellar
+   26  brew update
+   27  ls -la /usr/local
+   28  sudo chown -R $(whoami):admin /usr/local
+   29  brew update
+   30  brew install php@7.2
+   31  brew doctor
+   32  softwareupdate -list
+   33  softwareupdate --list
+   34  xcode-select --install
+   35  softwareupdate -l --include-config-data
+   36  softwareupdate -i xcode-select
+   37  softwareupdate -i 'xcode-select'
+   38  softwareupdate -i --all
+   39  php -v
+   40  mysql --version
+   41  brew install mysql@5.7
+   42  which shell
+   43  echo $0
+   44  brew update
+   45  brew list
+   46  which mysql
+   47  mysql --version
+   48  php -v
+   49  which php
+   50  brew install php@7.2
+   51  brew list
+   52  which php
+   53  php -v
+   54  export PATH="/usr/local/opt/php@7.2/bin:$PATH"
+   55  brew link php@7.2
+   56  which php
+   57  php -v
+   58  mysql --version
+   59  brew list | grep mysql
+   60  brew install msyql@5.7
+   61  brew install mysql@5.7
+   62  which mysql
+   63  mysql --version
+   64  brew list | grep openssl
+   65  which openssl
+   66  brew switch openssl@1.1
+   67  brew list | grep mysql
+   68  brew uninstall mysql
+   69  mysql --version
+   70  brew link mysql@5.7
+   71  echo 'export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"' >> ~/.profile
+   72  mysql --version
+   73  ls -la
+   74  ls -la ~
+   75  vim ~/.profile 
+   76  ls
+   77  find . | grep /usr/local/bin/mysql
+   78  sudo find . | grep /usr/local/bin/mysql
+   79  brew lsit | grep mysql
+   80  brew list | grep mysql
+   81  which mysql
+   82  msyql --version
+   83  mysql --version
+   84  echo $0
+   85  echo $PATH
+   86  history
+   87  history | grep echo
+   88  history |grep export
+   89  export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"
+   90  mysql --version
+   91  composer -v
+   92  ls
+   93  ls
+   94  ls
+   95  cd Desktop/
+   96  ls
+   97  mkdir giztech
+   98  ls
+   99  cd giztech/
+  100  git -v
+  101  gi --version
+  102  git --version
+  103  mkdir testApp
+  104  cd testApp
+  105  git clone Gizumo-004:Desktop katayama$ ls
+  106  Gizumo-004:Desktop katayama$ ls
+  107  git clone https://github.com/kota-kk/laravel_app.git
+  108  ls
+  109  cd laravel_app/
+  110  ls
+  111  ls -la
+  112  composer install
+  113  composer install
+  114  php -v
+  115  sudo a2dismod php7.3
+  116  php -d error_reporting=0 composer.phar
+  117  composer selfupdate
+  118  composer install
+  119  virtualbox
+  120  virtualbox
+  121  brew cask install vagrant
+  122  vagrant box add centos/7
+  123  vagrant box add centos/7
+  124  ls ~/.vagrant.d/tmp
+  125  rm ~/.vagrant.d/tmp/*
+  126  rm ~/.vagrant.d/tmp/*
+  127  vagrant box add centos/7
+  128  pwd
+  129  cd ../
+  130  cd ../
+  131  cd ../
+  132  pwd
+  133  mkdir vagrant_test
+  134  cd vagrant_test
+  135  vagrant init centos/7
+  136  vagrant plugin install vagrant-vbguest
+  137  vagrant plugin list
+  138  pwd
+  139  cd ../
+  140  vagrant up
+  141  cd vagrant_test
+  142  vagrant up
+  143  ;cd ../
+  144  cd giztech
+  145  pwd
+  146  cd ../
+  147  cd giztech
+  148  vagrant up
+  149  pwd
+  150  cd vagrant_test
+  151  vagrant up
+  152  cd../
+  153  cd../
+  154  vagrant up
+  155  cd vagrant_test
+  156  pwd
+  157  cd ../
+  158  cd vagrand_test
+  159  cd ../pwd
+  160  pwd
+  161  cd vagraant_test
+  162  pwd
+  163  cd vagrant_test
+  164  pwo
+  165  vagrant up
+  166  history 100
+  167  vagrant --version
+  168  virtualbox --version
+  169  vagrant up
+  170  vagrant up --provider=virtualbox
+  171  history 100
+  172  vagrant plugin list
+  173  vagrant up
+  174  vagrant up --provider=PROVIDER
+  175  vagrant up --provider=virtualbox
+  176  vagrant --version
+  177  brew cask install vagrant
+  178  vagrant --version
+  179  brew cask uninstall vagrant
+  180  vagrant --version
+  181  brew cask install vagrant
+  182  vagrant --version
+  183  vagrant plugin install vagrant-vbguest
+  184  pwd
+  185  vagrant up
+  186  vagrant ssh
+  187  vagrant ssh-config
+  188  ssh
+  189  vagrant ssh-config
+  190  ssh vagrant@127.0.0.1 -i /Users/katayama/Desktop/vagrant_test/.vagrant/machines/default/virtualbox -p 2222
+  191  vagrant ssh-config 
+  192  ssh vagrant@127.0.0.1 -i /Users/xxxx/.vagrant/machines/default/virtualbox -p 2222
+  193  ssh vagrant@127.0.0.1 -i /Users/katayama/Desktop/vagrant_test/.vagrant/machines/default/virtualbox/private_key -p 2222
+  194  cd pwd
+  195  cd /
+  196  cd /vagrant
+  197  cd /
+  198  cd /vagrant
+  199  ls/
+  200  ls /
+  201  cd pwd
+  202  cd /vagrant
+  203  ls /
+  204  vagrant up
+  205  composer　ーv
+  206  ls /
+  207  vagrant box add centos/7
+  208  cd vagrant_test
+  209  cd /
+  210  cd desktop
+  211  cd vagrant_test
+  212  cd desktop
+  213  cd ~
+  214  cd desktp
+  215  cd vagrant_test
+  216  cd vagrant_test
+  217  awd
+  218  pwd
+  219  cd desktop
+  220  cd vagrant_test
+  221  vagrant init centos/7
+  222  vagrant init centos/7
+  223  vagrant up
+  224  vagrant ssh
+  225  pwd
+  226  cd vagrant_test
+  227  cd desktop
+  228  cd vagrant_test
+  229  cd server_lesson
+  230  ls -a
+  231  cd linx_practice2
+  232  cd linux_practice2
+  233  ls -a
+  234  cd ../
+  235  vagrant up
+  236  vagrant ssh
+  237  ls
+  238  ls -a
+  239  cd linux_practice2
+  240  cd -a
+  241  pwd
+  242  ls -a
+  243  rm .gitignore.
+  244  ls -a
+  245   cd documents
+  246  ls
+  247  ls -v
+  248  cd ../
+  249  vi exec_command.log
+  250  cd documents
+  251  ls
+  252  git add .
+  253  git commit -m 'リネーム、隠しファイル、historyチェック'
+  254  git push origin master
+  255  ls
+  256  cd ../
+  257  cd -a
+  258  ls -a
+  259  pwd
+  260  git add .
+  261  git commit -m '余剰分非表示ファイルの削除'
+  262  git push origin master
+  263  echo history -300 > exec_command.log
+  264  git add .
+  265  git commit -m 'historiコマンド入力内容変更'
+  266  history -300
+  267  history
+  268  history -300
+  269  history -20
+  270  history 20
+  271  history 300
+  272  history -300
+  273  history 300 > exec_command.log
